@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "fastfood:chicken_nugget"
+    }
+  },
+  "result": {
+    "item": "minecraft:cooked_chicken",
+    "count": 1
+  }
+}

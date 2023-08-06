@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fastfood:item/chicken_nugget/chicken_nugget",
+    "layer1": "fastfood:item/chicken_nugget/chicken_nugget1",
+    "layer2": "fastfood:item/chicken_nugget/chicken_nugget2"
+  }
+}
